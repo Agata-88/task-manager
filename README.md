@@ -9,6 +9,8 @@ Task manager is a program created for small business that can help to manage tas
 - [Are there any prerequisites?](#are-there-any-prerequisites?)
 - [How can this program be run?](#how-can-this-program-be-run?)
 - [What does this program do specifically?](#what-does-this-program-do-specifically?)
+- [Credits](#credits)
+- [Comments](#comments)
 
 ## Are there any prerequisites?
 
@@ -17,6 +19,7 @@ This program uses Python verion 3.7.
 ## How can this program be run?
 
 All you need to do is to download the files and open the task_manager.py in code editor of your choice.
+This program requires two text files - "user.txt" and "tasks.txt".
 
 ## What does this program do specifically?
 
@@ -48,3 +51,11 @@ All you need to do is to download the files and open the task_manager.py in code
 ![vm](https://user-images.githubusercontent.com/118485184/234405685-2da999d3-1222-44d7-bcaf-9706d4bfc346.gif)
 
 9. If the user selects the "e" option from the menu, the program terminates.
+
+## Credits
+Agata-88
+
+## Comments
+I know this code can be improved by using functions and breaking up the code into smaller, more managable parts.
+I am only learning :)
+
