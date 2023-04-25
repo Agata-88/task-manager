@@ -32,8 +32,16 @@ If the user selects the "r" option from the menu, they are prompted to enter a n
 
 If the user selects the "ds" option from the menu, the program counts the number of users and tasks in both the "user.txt" and "tasks.txt" files and prints the results.
 
+![ds](https://user-images.githubusercontent.com/118485184/234403597-5862cf36-a61e-4c04-92ce-d10245ce4e38.gif)
+
 
 If the user selects the "a" option from the menu, they are prompted to enter information about a new task, which is then appended to the "tasks.txt" file.
+
+![a](https://user-images.githubusercontent.com/118485184/234404606-07be204c-3921-4500-a05a-6b43617605d8.gif)
+
 If the user selects the "va" option from the menu, the program reads the "tasks.txt" file and prints information about all tasks.
+
+![va](https://user-images.githubusercontent.com/118485184/234405108-e7c5964c-c43b-42e8-84c4-dfb544ddc398.gif)
+
 If the user selects the "vm" option from the menu, the program reads the "tasks.txt" file and prints information about tasks assigned to the currently logged in user.
 If the user selects the "e" option from the menu, the program terminates.
